@@ -1,0 +1,9 @@
+c:\users\bing\documents\visual studio 2015\Projects\Jenkins_Test\Jenkins_Test\bin\Debug\Jenkins_Test.exe.config
+c:\users\bing\documents\visual studio 2015\Projects\Jenkins_Test\Jenkins_Test\bin\Debug\Jenkins_Test.exe
+c:\users\bing\documents\visual studio 2015\Projects\Jenkins_Test\Jenkins_Test\bin\Debug\Jenkins_Test.pdb
+c:\users\bing\documents\visual studio 2015\Projects\Jenkins_Test\Jenkins_Test\obj\Debug\Jenkins_Test.csprojResolveAssemblyReference.cache
+c:\users\bing\documents\visual studio 2015\Projects\Jenkins_Test\Jenkins_Test\obj\Debug\Jenkins_Test.exe
+c:\users\bing\documents\visual studio 2015\Projects\Jenkins_Test\Jenkins_Test\obj\Debug\Jenkins_Test.pdb
+C:\Users\Bing\Documents\GitHub\JenkinsTest\Jenkins_Test\bin\Debug\Jenkins_Test.exe.config
+C:\Users\Bing\Documents\GitHub\JenkinsTest\Jenkins_Test\obj\Debug\Jenkins_Test.exe
+C:\Users\Bing\Documents\GitHub\JenkinsTest\Jenkins_Test\obj\Debug\Jenkins_Test.pdb
